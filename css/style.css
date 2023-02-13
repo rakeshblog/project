@@ -1,0 +1,40 @@
+/*
+type of  css selector
+element selctor
+*/
+h{
+    color:tomato;
+    background-color:white;
+}
+
+p{
+    color:blueviolet;
+    cursor:pointer;
+    text-shadow:2px 1px  2px mediumseagreen;
+    background-color: black;
+}
+
+/*
+// class selector
+  this is a universerl selector;
+*/
+.par{
+    color:white;
+    margin:10px;
+    padding: 10px;
+}
+ 
+/* id selecor*/
+
+#para{
+    color:red;
+    background-color: black;
+}
+
+/*
+combination selectors
+*/
+p.xyz{
+    color:blur;
+    background-color: orange;
+}

@@ -1,0 +1,16 @@
+/*
+    child  selectors
+
+    */
+p > a{
+    color:white;
+    background-color: violet;
+}
+
+/*
+descendant selectors
+
+div a{
+    color:red;
+}
+*/
